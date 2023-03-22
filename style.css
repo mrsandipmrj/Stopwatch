@@ -1,0 +1,22 @@
+
+.time{
+    text-align: center;
+    color:blue
+}
+body{ 
+    background-color: rgba(0, 0, 0, 0.842);
+    margin-top: 200px;
+    text-align: center;
+    font-size:110px;
+}
+body button {
+    border-radius: 20%;
+    font-size: 18%;
+    margin: 8x;
+    padding: 8px;
+    background-color:white;
+}
+.option button:hover{
+    color:white;
+    background-color: black;
+}
